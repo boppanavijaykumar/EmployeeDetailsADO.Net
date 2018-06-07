@@ -1,0 +1,11 @@
+c:\users\vijay.boppana\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.0\EmployeeDetails.deps.json
+c:\users\vijay.boppana\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.0\EmployeeDetails.runtimeconfig.json
+c:\users\vijay.boppana\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.0\EmployeeDetails.runtimeconfig.dev.json
+c:\users\vijay.boppana\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.0\EmployeeDetails.dll
+c:\users\vijay.boppana\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\netcoreapp2.0\EmployeeDetails.pdb
+c:\users\vijay.boppana\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.0\EmployeeDetails.csprojAssemblyReference.cache
+c:\users\vijay.boppana\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.0\EmployeeDetails.csproj.CoreCompileInputs.cache
+c:\users\vijay.boppana\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.0\EmployeeDetails.AssemblyInfoInputs.cache
+c:\users\vijay.boppana\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.0\EmployeeDetails.AssemblyInfo.cs
+c:\users\vijay.boppana\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.0\EmployeeDetails.dll
+c:\users\vijay.boppana\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\netcoreapp2.0\EmployeeDetails.pdb
